@@ -1,0 +1,5 @@
+Lista de comandos git que estou a aprender:
+- git init
+- git add
+- git commit
+- git push
